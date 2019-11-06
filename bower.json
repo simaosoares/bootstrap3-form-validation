@@ -1,0 +1,22 @@
+{
+  "name": "bootstrap3-form-validation",
+  "main": "index.html",
+  "keywords": [
+    "bootstrap3",
+    "html5",
+    "javascript"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "3.4.1"
+  }
+}
